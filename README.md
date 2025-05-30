@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallaceangelo/) 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:wallaceangelo@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575998373856)
+[![Lattes](https://img.shields.io/badge/Currículo-Lattes-0072B5?style=for-the-badge)](http://lattes.cnpq.br/3411755293937849)
 
 ---
 ### 🧰 Tecnologias & Ferramentas
